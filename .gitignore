@@ -1,0 +1,10 @@
+*.DS_Store*
+*.idea*
+*__pycache__*
+*ipynb_checkpoints*
+
+dataset
+word-embedding/glove.twitter.27B.200d.txt
+word-embedding/sgns.weibo.bigram-char
+code/preprocess/data
+code/train/results
